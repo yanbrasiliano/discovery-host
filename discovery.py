@@ -1,3 +1,17 @@
+
+"""
+
+Created by: Yan Brasiliano Silva Penalva
+Objective: discover hosts - addres ip of the websites.
+
+"""
+
+print()
+print('Author: Yan Brasiliano Silva Penalva - hiyan')
+print()
+
+
+
 import socket as s
 from time import sleep
 while True: 
